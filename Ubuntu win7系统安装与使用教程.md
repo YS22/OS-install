@@ -48,7 +48,7 @@
  6.等待安装完成<br>
  7.双系统安装完成安后重启电脑会直接进入win7 这时需要下面的操作<br>
  
- ![](C:\Users\Administrator\Desktop\系统安装\图片\7.png)
+ ![alt text](C:\Users\Administrator\Desktop\系统安装\图片\7.png)
  重启电脑会有win7和ubuntu2个系统任你选<br>
  
  
