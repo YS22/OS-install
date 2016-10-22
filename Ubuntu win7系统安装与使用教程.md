@@ -50,6 +50,7 @@
  
  ![](C:\Users\Administrator\Desktop\系统安装\图片\7.png)
  重启电脑会有win7和ubuntu2个系统任你选<br>
+ ![](http://www.linuxidc.com/upload/2015_02/150225185826783.png)
  
 
 
