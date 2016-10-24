@@ -12,12 +12,12 @@
 * U盘大于2GB，我们选择8GB的，一是价格只差2块钱，二是U盘功能还可以继续剩余6GB
 
 步骤如下：  
-1.插入U盘格式化为FAT32   
+1.插入U盘格式化为FAT32<br>
 2.UltraISO打开要烧录的系统后，选择 启动->写入硬盘映像<br>
-![](https://github.com/YS22/OS-install/blob/master/图片/2.jpg)
+![](https://github.com/YS22/OS-install/blob/master/图片/2.jpg)<br>
 3.选择隐藏启动分区，这样烧录的系统U盘里就看不到，U盘可以照旧使用，只是容量变小了 (烧录win7系统采用不隐藏分区)<br>
-4.在弹出窗口中 找到“便捷启动” 单击“写入新的硬盘主引导记录（MBR）” 选择“USB-HDD+”并单击  <br>
-![](https://github.com/YS22/OS-install/blob/master/图片/1.jpg)
+4.在弹出窗口中 找到“便捷启动” 单击“写入新的硬盘主引导记录（MBR）” 选择“USB-HDD+”并单击 <br>
+![](https://github.com/YS22/OS-install/blob/master/图片/1.jpg)<br>
 5.点击写入，等待完成即可<br>
 
 ###1.3 系统安装(备份重要的资料)
@@ -27,28 +27,27 @@
 2.进入安装界面点击下一步，选择现在安装<br>
 3.勾选我接受条款，点击下一步<br>
 4.选择自定义进入硬盘分区,点击硬盘高级应用<br>
-![](https://github.com/YS22/OS-install/blob/master/图片/5.jpg)
+![](https://github.com/YS22/OS-install/blob/master/图片/5.jpg)<br>
 5.点击新建进行硬盘分区，分几个区自己定<br>
-![](https://github.com/YS22/OS-install/blob/master/图片/3.jpg)
-![](https://github.com/YS22/OS-install/blob/master/图片/6.jpg)
+![](https://github.com/YS22/OS-install/blob/master/图片/3.jpg)<br>
+![](https://github.com/YS22/OS-install/blob/master/图片/6.jpg)<br>
 6.点击主分区自己决定把win7系统放在哪<br>
-![](https://github.com/YS22/OS-install/blob/master/图片/4.jpg)
+![](https://github.com/YS22/OS-install/blob/master/图片/4.jpg)<br>
 7.接下来一路点击“下一步”等待完成win7安装完成<br>
 
 ####Ubuntu安装
  1.插入U盘，重启电脑，根据提示按键进入U盘启动，稍等进入安装设置 <br>
  2.左边选择语言，然后点击安装ubuntu<br>
- ![](https://github.com/YS22/OS-install/blob/master/图片/1.png)
+ ![](https://github.com/YS22/OS-install/blob/master/图片/1.png)<br>
  3.出现准备安装ubuntu点击继续<br>
  4.安装类型看个人意愿，如果想安装win7和ubuntu双系统切记选择其他选项，想替换之前的系统选择清理磁盘安装ubuntu<br>
- ![](https://github.com/YS22/OS-install/blob/master/图片/4.png)
+ ![](https://github.com/YS22/OS-install/blob/master/图片/4.png)<br>
  如果要实现双系统点击其他按钮后操作下图流程进行分区<br>
- ![](https://github.com/YS22/OS-install/blob/master/图片/6.png)
+ ![](https://github.com/YS22/OS-install/blob/master/图片/6.png)<br>
  5.设置基本信息<br>
  6.等待安装完成<br>
  7.双系统安装完成安后重启电脑会直接进入win7 这时需要下面的操作<br>
- 
- ![](https://github.com/YS22/OS-install/blob/master/图片/7.png)
+ ![](https://github.com/YS22/OS-install/blob/master/图片/7.png)<br>
  重启电脑会有win7和ubuntu2个系统任你选<br>
  
  
