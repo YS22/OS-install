@@ -35,7 +35,7 @@
 ![](https://github.com/YS22/OS-install/blob/master/图片/4.jpg)<br>
 7.接下来一路点击“下一步”等待完成win7安装完成<br>
 
-####Ubuntu安装
+####Ubuntu安装(拔掉网线）
  1.插入U盘，重启电脑，根据提示按键进入U盘启动，稍等进入安装设置 <br>
  2.左边选择语言，然后点击安装ubuntu<br>
  ![](https://github.com/YS22/OS-install/blob/master/图片/1.png)<br>
